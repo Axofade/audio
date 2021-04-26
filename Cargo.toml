@@ -1,0 +1,9 @@
+[package]
+name = "untitled-api"
+version = "0.1.0"
+authors = ["axofade"]
+edition = "2018"
+
+[dependencies]
+bindings = { package = "bindings", path = "bindings" }
+windows = "0.8.0"
